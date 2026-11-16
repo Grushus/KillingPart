@@ -40,7 +40,7 @@ Four days, one person, two Claudes:
 
 - **Claude in chat** for the design: the pitch, the rules, the cut list, reading playtests, and writing the prompt for each build task.
 - **Claude Code** for all the code: about 12,700 lines of C++ in Unreal Engine 5.9, plus the editor Python scripts that build the materials. It built, tested (with a bot that plays the game by itself), took the screenshots and kept the notes.
-- **Simon** played every build and made every design call.
+- I played every build and made the design calls.
 
 The whole record is in [docs/](docs): the design brief ([DESIGN.md](docs/DESIGN.md)), the dated dev notes ([DevNotes.md](docs/DevNotes.md)), Claude Code's standing brief ([CLAUDE.md](docs/CLAUDE.md)), and every prompt in order in [docs/process](docs/process).
 
