@@ -1,0 +1,51 @@
+# Unreal Engine generated folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# Content is not part of this repo (licences); see README
+Content/
+
+# IDE and project files
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.code-workspace
+
+# Compiled files
+*.slo
+*.lo
+*.o
+*.obj
+*.pch
+*.dll
+*.exe
+*.lib
+*.pdb
+*.ipa
+*.apk
+
+# Packaged builds and archives (the game is in Releases)
+*.zip
+*.pak
+
+# Local tools and OS files
+.claude/
+.mcp.json
+.diversion/
+.dvignore
+*.log
+*.stackdump
+Thumbs.db
+Desktop.ini
+.DS_Store

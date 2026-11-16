@@ -1,0 +1,27 @@
+# Normalise text files
+* text=auto
+
+*.cpp  text diff=cpp
+*.h    text diff=cpp
+*.cs   text diff=csharp
+*.py   text diff=python
+*.md   text diff=markdown
+*.ini  text
+*.json text
+*.html text
+*.uproject text
+*.ps1  text eol=crlf
+*.bat  text eol=crlf
+
+# Binary assets
+*.png  binary
+*.jpg  binary
+*.gif  binary
+*.glb  binary
+*.ttf  binary
+*.uasset binary
+*.umap   binary
+
+# Keep the docs folder out of GitHub's language stats
+docs/** linguist-documentation
+Prototype/** linguist-documentation
