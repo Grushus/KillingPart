@@ -16,9 +16,9 @@ A one-screen arcade game for Windows, made in four days for the 2026 Epic AI Meg
 
 ## Video
 
-[![Killing Part on YouTube](docs/screenshots/cover.png)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Killing Part on YouTube](https://img.youtube.com/vi/NHCL_n8F6YU/maxresdefault.jpg)](https://www.youtube.com/watch?v=NHCL_n8F6YU)
 
-*(Video coming soon.)*
+*[Watch on YouTube](https://www.youtube.com/watch?v=NHCL_n8F6YU)*
 
 ## Download
 
@@ -32,7 +32,7 @@ The Epic AI MegaJam ran from 12 to 15 November 2026, with the theme **Director's
 
 The jam entry, with the description, the screenshots and the build, is on itch.io:
 
-**[Killing Part on itch.io](https://ITCH_USER.itch.io/killing-part)**
+**[Killing Part on itch.io](https://omgxdlmao.itch.io/killing-part)**
 
 ## How it was made
 
